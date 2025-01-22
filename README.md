@@ -3,24 +3,16 @@
 #Um script em Python para converter tabelas de um arquivo PDF em uma planilha Excel. Este script utiliza pdfplumber para extrair dados de tabelas e pandas para criar o arquivo Excel.
 
 Funcionalidades
-
-Extrai tabelas de arquivos PDF.
-
-Suporta PDFs com múltiplas páginas.
-
-Salva os dados extraídos em um arquivo Excel.
+  * Extrai tabelas de arquivos PDF.
+  * Suporta PDFs com múltiplas páginas.
+  * Salva os dados extraídos em um arquivo Excel.
 
 Requisitos
-
-Python 3.6 ou superior
-
-Bibliotecas necessárias:
-
-pdfplumber
-
-pandas
-
-openpyxl
+  * Python 3.6 ou superior
+  * Bibliotecas necessárias:
+    * pdfplumber
+    * pandas
+    * openpyxl
 
 Instale as dependências com:
 
